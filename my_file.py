@@ -3,10 +3,8 @@ print('Hi Git')
 print('Hi from another dev')
 
 def hi_there():
+<<<<<<< HEAD
 	print("hi")
-
-def hi_there():
-	print("My local change")
-
-def hi_there():
-	print("Update python function with merge conflict")
+=======
+  print("hi")
+>>>>>>> ba3dd7988d5a24988a86f76adccd03121bdfb0a5
